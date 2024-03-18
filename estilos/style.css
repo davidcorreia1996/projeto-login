@@ -5,3 +5,14 @@
     verde:#49a09d
     lilas: #5f2c82
 */
+
+body {
+    background-color: rgb(217, 95, 217);
+}
+
+section#login {
+    background-color: white;
+    width: 50vw;
+    height: 50vh;
+    
+}
