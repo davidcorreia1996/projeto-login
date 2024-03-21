@@ -11,6 +11,7 @@ Tablet: 768px até 992px
 
     section#login {
         width: 80vw;
+        height: 340px;
     }
 
     section#login>div#imagem {
@@ -28,7 +29,8 @@ Tablet: 768px até 992px
     }
 
     div#formulario>p {
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px;
     }
 }
 
@@ -41,6 +43,7 @@ Tablet: 768px até 992px
 
     section#login {
         width: 950px;
+        height: 330px;
     }
 
     section#login>div#imagem {
@@ -59,6 +62,7 @@ Tablet: 768px até 992px
     }
 
     div#formulario>p {
-        font-size: 1.2em;
+        font-size: 1em;
+        margin: 20px;
     }
 }
