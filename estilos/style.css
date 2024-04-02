@@ -36,9 +36,9 @@ section#login {
     width: 250px;
     height: 515px;
     border-radius: 20px;
-    box-shadow: 0px 0px 10px rgba(0,0, 0.450);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0.450);
 
-    
+
 
     transform: translate(-50%, -50%);
     transition: width .3, height .3s;
@@ -72,6 +72,17 @@ form>div.campo {
     margin: 5px 0px;
 }
 
+i {
+    font-size: 30px;
+    position: absolute;
+    top: 73%;
+    left: 93%;
+
+    transform: translate(-80%, -50%);
+
+
+}
+
 div.campo>label {
     display: none;
 }
@@ -85,7 +96,9 @@ div.campo>span {
     padding: 5px;
 }
 
+
 div.campo>input {
+    
     background-color: #49a09d;
     font-size: 1em;
     width: calc(100% - 45px);

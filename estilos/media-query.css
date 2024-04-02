@@ -32,6 +32,15 @@ Tablet: 768px até 992px
         font-size: 1em;
         margin: 20px;
     }
+
+    i {
+        font-size: 30px;
+    position: absolute;
+    top: 60%;
+    left: 97%;
+
+    transform: translate(-80%, -50%);
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -64,5 +73,14 @@ Tablet: 768px até 992px
     div#formulario>p {
         font-size: 1em;
         margin: 20px;
+    }
+
+    i {
+        font-size: 30px;
+    position: absolute;
+    top: 60%;
+    left: 48%;
+
+    transform: translate(-80%, -50%);
     }
 }
