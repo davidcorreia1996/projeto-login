@@ -36,7 +36,7 @@ Tablet: 768px até 992px
     i {
         font-size: 30px;
     position: absolute;
-    top: 60%;
+    top: 65%;
     left: 97%;
 
     transform: translate(-80%, -50%);
